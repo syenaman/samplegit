@@ -1,1 +1,2 @@
 Hello and Welcome to Git !
+Fixed the bug 1
